@@ -14,7 +14,7 @@ Hello 👋, my name is Stephen, and I am a third-year college student pursuing a
 <h3>📈 Stats</h3>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=margallostephen&theme=shades-of-purple&card_width=500" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=margallostephen&layout=compact&theme=shades-of-purple&card_width=420" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=margallostephen&layout=compact&theme=shades-of-purple&card_width=420" height="150"/>
 </div>
 
 #
