@@ -1,7 +1,7 @@
 ---
 
 <h3>🧑🏻‍💼 About Me</h3>
-Hello 👋, my name is Stephen, and I am a third-year college student pursuing a Bachelor of Science in Information Technology at the University of Cabuyao. 
+Hello 👋, my name is Stephen, and I am a fourth-year college student pursuing a Bachelor of Science in Information Technology at the University of Cabuyao. 
 
 - 👨‍💻 I'm currently an intern in web development in creative bananas.
 - 📖 I’m currently learning **Laravel Framework**.
