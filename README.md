@@ -3,8 +3,7 @@
 <h3>🧑🏻‍💼 About Me</h3>
 Hello 👋, my name is Stephen, and I am a third-year college student pursuing a Bachelor of Science in Information Technology at the University of Cabuyao. 
 
-- 👨‍💻 I'm currently working on our **Capstone Project**, a web-based evacuation center locator which uses a geographic information system.
-
+- 👨‍💻 I'm currently an intern in web development in creative bananas.
 - 📖 I’m currently learning **Laravel Framework**.
 
 - 😄 Fun fact my first programming language was **Java**.
@@ -49,7 +48,7 @@ Hello 👋, my name is Stephen, and I am a third-year college student pursuing a
   <a href="https://dart.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/></a>&nbsp;
   <a href="https://flutter.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/></a>&nbsp;
   <a href="https://laravel.com/"><img src="https://github.com/laravel/art/blob/master/laravel-logo.png" title="Laravel" alt="Laravel" width="40" height="40"/></a>&nbsp;
-  <a href="https://tailwindcss.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/></a>&nbsp;
+  <a href="https://tailwindcss.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/></a>&nbsp;
 </div>
 
 ---
