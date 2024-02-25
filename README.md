@@ -3,8 +3,9 @@
 <h3>🧑🏻‍💼 About Me</h3>
 Hello 👋, my name is Stephen, and I am a fourth-year college student pursuing a Bachelor of Science in Information Technology at the University of Cabuyao. 
 
-- 👨‍💻 I'm currently an intern in web development in creative bananas.
-- 📖 I’m currently learning **Laravel Framework**.
+- 👨‍💻 I am currently an intern in web development at Creative Bananas.
+
+- 📖 I am currently learning Figma and Wordpress
 
 - 😄 Fun fact my first programming language was **Java**.
 
