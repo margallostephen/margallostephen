@@ -28,7 +28,7 @@ Hello 👋, my name is Stephen, and I am a fourth-year college student pursuing 
 #
 
 <h3>📫 How to reach me</h3>
-<a href="mailto:spmargallo@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
+<a href="mailto:margallostephen78@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" /></a>
 
 #
 
