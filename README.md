@@ -1,13 +1,11 @@
 ---
 
 <h3>🧑🏻‍💼 About Me</h3>
-Hello 👋, my name is Stephen, and I am a fourth-year college student pursuing a Bachelor of Science in Information Technology at the University of Cabuyao. 
+Greetings! My name is Stephen, and I am a recent graduate with a Bachelor of Science in Information Technology from the University of Cabuyao.
 
-- 👨‍💻 I am currently an intern in web development at Creative Bananas.
+- 👨‍💻 I am currently looking for opportunities to start my career as an entry-level backend or full stack web developer.
 
-- 📖 I am currently learning Figma and Wordpress
-
-- 😄 Fun fact my first programming language was **Java**.
+- 😄 Fun fact The first programming language I learned was **Java**.
 
 #
 
