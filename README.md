@@ -1,9 +1,9 @@
 ---
 
-<h3>🧑🏻‍💼 About Me</h3>
-Greetings! My name is Stephen, and I am a recent graduate with a Bachelor of Science in Information Technology from the University of Cabuyao.
+<h3>🧑 About Me</h3>
+Hello! I'm Stephen, a Bachelor of Science in Information Technology graduate from the University of Cabuyao.
 
-- 👨‍💻 I am currently looking for opportunities to start my career as an entry-level backend or full stack web developer.
+- 👨‍💻 I am currently working as IT Programmer at Prima Tech Phils,. Inc.
 
 - 😄 Fun fact The first programming language I learned was **Java**.
 
@@ -21,6 +21,7 @@ Greetings! My name is Stephen, and I am a recent graduate with a Bachelor of Sci
 <div>
   <a href="https://www.facebook.com/margallostephen/"><img src="https://img.shields.io/static/v1?message=Facebook&logo=Facebook&label=&color=1e90ff&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" /></a>
   <a href="https://discordapp.com/users/899676076224151552"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" /></a>
+  <a href="https://linkedin.com/in/margallostephen"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
 
 #
